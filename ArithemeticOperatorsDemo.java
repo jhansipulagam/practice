@@ -2,6 +2,7 @@ public class ArithemeticOperatorsDemo{
 public static void main(String args[]){
 int a=13;
 int b=5;
+
 int sum=a+b;
 int sub=a-b;
 int mul=a*b;
